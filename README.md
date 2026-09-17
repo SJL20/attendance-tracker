@@ -1,6 +1,6 @@
 # Attendance Tracker (web)
 
-**Live site:** https://stevenlafever-star.github.io/attendance-tracker/
+**Live site:** https://sjl20.github.io/attendance-tracker/
 
 Client-side tool that enforces a factory Time & Attendance policy: the rolling **2% rule**
 for unexcused absences and the **tardy discipline ladder**. HR imports the weekly labor
@@ -12,7 +12,7 @@ This repository contains code only — the database is a `.json` file that lives
 company's shared OneDrive folder and is opened directly by the page.
 
 ## Using it
-1. Open https://stevenlafever-star.github.io/attendance-tracker/ in **Chrome or Edge** (needed for direct file access).
+1. Open https://sjl20.github.io/attendance-tracker/ in **Chrome or Edge** (needed for direct file access).
 2. **Open database…** and pick `2 percent/Database/attendance.json`
    (or **New database…** the first time). The browser asks permission once per session;
    after that, changes save automatically.
